@@ -1,4 +1,4 @@
-﻿using System.Data;
+﻿using System;
 
 namespace xUnitTestLibrary
 {
@@ -6,13 +6,9 @@ namespace xUnitTestLibrary
     {
         public static int SumNumbers(int firstValue, int secondValue, int thirdValue)
         {
-
             if (firstValue <= 0) return 0;
-
             if (secondValue <= 0) return firstValue;
-
             if (thirdValue <= 0) return firstValue + secondValue;
-
             return firstValue + secondValue + thirdValue;
         }
 

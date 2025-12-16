@@ -1,30 +1,19 @@
-﻿using System.Data;
+﻿using System;
+using xUnitTestLibrary;
 
-namespace xUnitTestLibrary
+namespace ProgramaArreglar
 {
-    public static class TestsLibrary
+    public class Program
     {
-        public static int SumNumbers(int firstValue, int secondValue, int thirdValue)
+        static void Main(string[] args)
         {
+            Console.WriteLine("Iniciando programa...");
 
-            if (firstValue <= 0) return 0;
+            int resultado = TestsLibrary.SumNumbers(5, 5, 5);
+            string descripcion = TestsLibrary.DescriptionResult(resultado);
 
-            if (secondValue <= 0) return firstValue;
-
-            if (thirdValue <= 0) return firstValue + secondValue;
-
-            return firstValue + secondValue + thirdValue;
-        }
-
-        public static string DescriptionResult(int result)
-        {
-            const string EqualZero = "El resultat és zero.";
-            const string PositiveResult = "El resultat és positiu.";
-            const string NegativeResult = "El resultat és negatiu.";
-
-            if (result == 0) return EqualZero;
-            if (result > 0) return PositiveResult;
-            return NegativeResult;
+            Console.WriteLine($"Resultado: {resultado} - {descripcion}");
+            Console.WriteLine("Fin del programa.");
         }
     }
 }
