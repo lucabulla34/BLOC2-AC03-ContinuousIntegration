@@ -1,0 +1,17 @@
+﻿D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\MyTests\IntegracioContinuaTests.cs
+D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\MyTests\UnitTest1.cs
+D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\Program.cs
+D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\TestsLibrary.cs
+C:\Users\lucab\.nuget\packages\microsoft.net.test.sdk\18.0.1\build\net8.0\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\lucab\.nuget\packages\microsoft.testplatform.testhost\18.0.1\build\net8.0\x64\testhost.exe
+C:\Users\lucab\.nuget\packages\microsoft.testplatform.testhost\18.0.1\build\net8.0\x64\testhost.dll
+C:\Users\lucab\.nuget\packages\xunit.runner.visualstudio\3.1.5\build\net8.0\xunit.abstractions.dll
+C:\Users\lucab\.nuget\packages\xunit.runner.visualstudio\3.1.5\build\net8.0\xunit.runner.visualstudio.testadapter.dll
+D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\.gitignore
+D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\MyTests\obj\MyTests.csproj.nuget.dgspec.json
+D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\MyTests\obj\MyTests.csproj.nuget.g.props
+D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\MyTests\obj\MyTests.csproj.nuget.g.targets
+D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\MyTests\obj\project.assets.json
+D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\MyTests\obj\project.nuget.cache
+D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\README.md
+D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\obj\Debug\net9.0\apphost.exe

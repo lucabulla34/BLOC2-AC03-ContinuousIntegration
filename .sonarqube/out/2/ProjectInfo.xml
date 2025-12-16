@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>ProgramaArreglar</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>7148015e-875a-4f85-9df1-3f3cf2e65491</ProjectGuid>
+  <FullPath>D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\App\ProgramaArreglar.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResultFiles>
+    <AnalysisResultFile Id="FilesToAnalyze" Location="D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\.sonarqube\conf\2\FilesToAnalyze.txt" />
+  </AnalysisResultFiles>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\.sonarqube\out\2\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\.sonarqube\out\2</Property>
+    <Property Name="sonar.cs.scanner.telemetry">D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\.sonarqube\out\2\Telemetry.json</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net9.0</TargetFramework>
+</ProjectInfo>

@@ -1,0 +1,8 @@
+﻿D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\MyTests\IntegracioContinuaTests.cs
+D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\MyTests\TestsLibrary.cs
+D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\MyTests\UnitTest1.cs
+C:\Users\lucab\.nuget\packages\microsoft.net.test.sdk\17.14.1\build\net8.0\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\lucab\.nuget\packages\microsoft.testplatform.testhost\17.14.1\build\net8.0\x64\testhost.exe
+C:\Users\lucab\.nuget\packages\microsoft.testplatform.testhost\17.14.1\build\net8.0\x64\testhost.dll
+C:\Users\lucab\.nuget\packages\xunit.runner.visualstudio\3.1.4\build\net8.0\xunit.abstractions.dll
+C:\Users\lucab\.nuget\packages\xunit.runner.visualstudio\3.1.4\build\net8.0\xunit.runner.visualstudio.testadapter.dll

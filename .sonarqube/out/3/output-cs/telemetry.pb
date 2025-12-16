@@ -1,0 +1,1 @@
+_RHD:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\MyTests\MyTests.csproj¢net10.0òCSharp14

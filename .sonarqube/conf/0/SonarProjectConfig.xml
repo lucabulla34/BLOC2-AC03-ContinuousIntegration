@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
+  <AnalysisConfigPath>D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <ProjectPath>D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\ProgramaArreglar.csproj</ProjectPath>
+  <FilesToAnalyzePath>D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\.sonarqube\conf\0\FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\.sonarqube\out\0</OutPath>
+  <ProjectType>Test</ProjectType>
+  <TargetFramework>net9.0</TargetFramework>
+</SonarProjectConfig>

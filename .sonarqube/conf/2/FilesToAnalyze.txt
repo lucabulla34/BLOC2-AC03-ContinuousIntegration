@@ -1,0 +1,2 @@
+﻿D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\App\Program.cs
+D:\ITB\M03\BLOC2\BLOC2-AC03-ContinuousIntegration\App\obj\Debug\net9.0\apphost.exe
