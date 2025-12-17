@@ -121,13 +121,13 @@ namespace xUnitTests
 
 # Respostes preguntes :page_facing_up:
 - Pregunta 1: En aquest anàlisi inicial del programa, es mostren resultats en l’apartat de cobertura de codi (coverage)? Raoneu la vostra resposta, incloent una captura de la pantalla de resum de SonarCloud.
-    -      
+    - 
 - Pregunta 2: Quines accions heu realitzat per reduir la complexitat ciclomàtica?  Raoneu la vostra resposta.
-    -
+    - 
 - Pregunta 3: Com separaríeu la lògica de càlcul en mètodes independents?  Raoneu la vostra resposta.
-    - Jo ho separaria amb dos mètodes, el primer que fes al càlcul de sumar i l'altre que amb retornes quin string hauria d'imprimir per pantalla depenen el càlcul de la suma.
+    - Jo ho separaria en dos mètodes, el primer fa el càlcul de sumar i l'altre em retorna un string que hauria d'imprimir per pantalla segons el càlcul de la suma.
 - Pregunta 4: Es poden passar tots els tests correctament? Com es captura la sortida per consola? Raoneu la vostra resposta i poseu algun exemple on ho heu implementat.   
-    - Sí, tots els tests han passat perfectament sense cap mena de problema. El resultat per consola, en el nostre cas, ens diu que: El procés de compilació es va iniciar a les 10:19 i va generar els fitxers .dll per als projectes              "xUnitTestLibrary" i "xUnitTests" a les carpetes corresponents. Tots dos projectes es van compilar amb èxit, amb la configuració Debug per a Any CPU. El procés de compilació va acabar a les 10:20 i va durar 20,745 segons. Un              exemple del test amb èxit: xUnitTests.IntegracioContinuaTests.TC1_Add_Numbers(firstNum: 0, secondNum: -10, thirdNum: 25, expectedResultInt: 0, expectedResultString: "El resultat és zero.")
+    - Sí, tots els tests han passat perfectament sense cap mena de problema. El resultat per consola, en el nostre cas, ens diu que: El procés de compilació es va iniciar a les 10:19 i va generar els fitxers .dll per als projectes "xUnitTestLibrary" i "xUnitTests" a les carpetes corresponents. Tots dos projectes es van compilar amb èxit, amb la configuració Debug per a Any CPU. El procés de compilació va acabar a les 10:20 i va durar 20,745 segons. Un exemple del test amb èxit: xUnitTests.IntegracioContinuaTests.TC1_Add_Numbers(firstNum: 0, secondNum: -10, thirdNum: 25, expectedResultInt: 0, expectedResultString: "El resultat és zero.")
 - Pregunta 5: Quin error ha estat més difícil/complex de solucionar? Raoneu la vostra resposta i poseu algun exemple on ho heu implementat.
     - 
   
